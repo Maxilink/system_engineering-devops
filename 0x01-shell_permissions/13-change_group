@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp holberton hello
+chgrp 0x01-shell_permissions hello
