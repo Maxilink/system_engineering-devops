@@ -1,2 +1,2 @@
 #!/bin/bash
-#ls -t | headl
+ls -t | headl
